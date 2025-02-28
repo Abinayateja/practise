@@ -1,1 +1,2 @@
-# practise
+# DevOps
+DevOps lab
